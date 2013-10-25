@@ -1,10 +1,8 @@
-# OSX Noise
+# osx
 .DS_Store
-profile
-*~
-*.lock
-*.DS_Store
-*.swp
-*.out
-*.bak*
-[Tt]humbs.db
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
