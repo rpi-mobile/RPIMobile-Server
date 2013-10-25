@@ -3,6 +3,8 @@ RPIMobile-Server
 
 Backend for RPI Mobile built on Bottle (a lightweight python server)
 
+More info: ```http://bottlepy.org/docs/dev/```
+
 Installation
 ============
 
@@ -15,10 +17,10 @@ Running Server
  Run ```python3 main.py``` in the server directory to run the server with default settings
  
  Future Plans
- ============
+==============
  
- - [ ] Finish TV Schedule 
- - [ ] Dining Hall Menus
- - [ ] Building hours/information
- - [ ] Homepage with better usage details and routes
- - [ ] Smarter persisting of data
+ - Finish TV Schedule 
+ - Dining Hall Menus
+ - Building hours/information
+ - Homepage with better usage details and routes
+ - Smarter persisting of data
